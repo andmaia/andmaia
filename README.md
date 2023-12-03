@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 <div>
-<a href="https://github.com/andmaia">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andmaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andmaia&layout=compact&langs_count=10&theme=dark"/>
+  <a href="https://github.com/andmaia">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andmaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andmaia&layout=compact&langs_count=10&theme=dark" />
+  </a>
 </div>
+
 
 <!--
 **andmaia/andmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
